@@ -7,7 +7,7 @@ const app = express();
 
 // Define CORS options
 let corsOptions = {
-    origin: ['https://localhost', 'https://www.github.io', 'https://lizethvl.github.io/geog458-lab5'],
+    origin: ['https://localhost', 'https://www.github.io', 'https://lizethvl.github.io/'],
     optionsSuccessStatus: 200
 }
 
