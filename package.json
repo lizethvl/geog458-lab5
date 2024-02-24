@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lizethvl/participatory-mapping.git"
+    "url": "git+https://github.com/lizethvl/geog458-lab5.git"
   },
   "author": "Bo Zhao",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lizethvl/participatory-mapping/issues"
+    "url": "https://github.com/lizethvl/geog458-lab5/issues"
   },
-  "homepage": "https://github.com/lizethvl/participatory-mapping#readme",
+  "homepage": "https://github.com/lizethvl/geog458-lab5#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
